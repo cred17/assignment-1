@@ -15,7 +15,7 @@ h1 {
 
 /* Style the paragraph */
 p {
-    color: darkslategray;
+    color: rgb(176, 94, 126);
     font-size: 18px;
     line-height: 1.6;
 }
@@ -101,7 +101,7 @@ body {
 }
 
 .option {
-    background-color: blue;
+    background-color: red;
     color: white;
     padding: 15px 30px;
     font-size: 18px;
